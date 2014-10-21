@@ -1,6 +1,6 @@
 {
   "name": "demo-datachannel-node",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An rtc.io demo that demonstrates server-side data channels",
   "main": "index.js",
   "private": "true",
