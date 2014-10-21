@@ -27,7 +27,7 @@
     "express": "^4.8.7",
     "rtc-plugin-node": "^1.0.0",
     "rtc-quickconnect": "^3.0.0",
-    "rtc-switchboard": "^0.10.3",
+    "rtc-switchboard": "^1.2.1",
     "st": "^0.5.1"
   }
 }
