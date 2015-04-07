@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rtc-io/demo-datachannel-node",
   "dependencies": {
-    "browserify": "^6.1.0",
+    "browserify": "^9.0.7",
     "express": "^4.8.7",
     "rtc-plugin-node": "^2.1.0",
     "rtc-quickconnect": "^4.0.0",
